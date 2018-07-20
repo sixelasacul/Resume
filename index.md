@@ -11,7 +11,6 @@ Please contact me by mail (alexis.lucas1@viacesi.fr).
 
 * [Github](https://github.com/sixelasacul)
 * [LinkedIn](https://www.linkedin.com/in/alexislucasurl/)
-* [PDF Resume](CV-Alexis_Lucas_sw.pdf)
 
 ## Skills
 
